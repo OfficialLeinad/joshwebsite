@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: Times;
+    background-color:PINK;
+    color: red;
+    margin: 5px;
+}
+
+ol {
+    list-style-position:outside;
+}
+#hi{
+    width:300;
+    margin: 0 auto;
+    font-size: 30;
+}
+#head{
+    font-size: 100;
+}
+.footer{
+    position: absolute;
+    width:98%;
+    text-align: right;
+    bottom: 0;
+    font-size: 25;
+}
